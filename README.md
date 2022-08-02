@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrkoZino
-- 👀 I’m interested in Data Analysis and Web Developer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science and Web Design
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning HTML,CSS & JS
+- 💞️ I’m looking to collaborate on Web Design
 
 <!---
 MrkoZino/MrkoZino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
