@@ -1,4 +1,4 @@
-Hi, I’m @MrkoZino. I’m interested in Web Developement and currently learning HTML,CSS & JS.
+Hi, I’m @MrkoZino. I’m interested in Web Developement.
 
 
 <!---
